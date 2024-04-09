@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Gwendal-Beaumont
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Gwendal-Beaumont/TwinCobot-ALS-Docker
+  - Gwendal-Beaumont/DT_ALS_GUI
+

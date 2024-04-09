@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://labsticc.fr/'>Lab-STICC, UMR 6285</a>. Brest, FR. gwendal.beaumont@imt-atlantique.fr. Moto. Etc.
+subtitle: IMT Atlantique - <a href='https://labsticc.fr/'>Lab-STICC, CNRS, UMR 6285</a> • Brest, FR • gwendal.beaumont@imt-atlantique.fr
 
 profile:
   align: right
@@ -10,16 +10,17 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office D03-111A</p>
-    <p>655 Av. du Technopôle</p>
-    <p>29280 Plouzané, France</p>
+    <p>Technopôle Brest-Iroise</p>
+    <p>CS 83818</p>
+    <p>29238 Brest Cedex 03, France</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Gwendal is a first-year Ph.D. student at IMT Atlantique, advised by [Prof. Antoine Beugnard](https://www.imt-atlantique.fr/fr/personne/antoine-beugnard). His research interests lie in the fields of Digital Twins and DevOps. His contributions focus on automating the making and the management of Digital Twins.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Gwendal received his General Engineering degree (specialized in Software Engineering) from IMT Mines Alès in 2023. Before that, he published three co-authored papers in Simulation under the supervision of [Dr. Philippe J. Giabbanelli](https://scholar.google.ca/citations?user=7YilOHoAAAAJ&hl=en).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to send me an email.

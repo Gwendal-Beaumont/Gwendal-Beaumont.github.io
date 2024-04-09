@@ -8,9 +8,9 @@
     "url": "https://Gwendal-Beaumont.github.io/",
     "summary": "Gratuated in Computer Science Engineering in 2023, I now pursue a PhD in the field of Digital Twins and DevOps.",
     "location": {
-      "address": "655 Av. du Technopôle",
-      "postalCode": "29280",
-      "city": "Plouzané",
+      "address": "Technopôle Brest-Iroise, CS 83818",
+      "postalCode": "29238",
+      "city": "Brest Cedex 03",
       "countryCode": "FR",
       "region": "Brittany"
     },
@@ -29,8 +29,8 @@
       "url": "https://miamioh.edu/",
       "startDate": "2022-05-02",
       "endDate": "2023-08-19",
-      "summary": "Research intership in Miami University's labs.",
-      "highlights": ["Creation of a framework"]
+      "summary": "Internship as an assistant in the preparation of a master thesis on the effect of errors in agent-based simulation systems.",
+      "highlights": ["State of the art", "Creating an agent-based simulation in Python", "Machine Learning"]
     },
     {
       "name": "ALTEN Labs, Rennes, FR",
@@ -68,7 +68,7 @@
       "location": "Brest, France",
       "url": "https://www.imt-atlantique.fr/",
       "area": "Software Engineering",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2023-10-01",
       "endDate": "2026-09-30",
       "score": "10",
@@ -79,7 +79,7 @@
       "location": "Alès, France",
       "url": "https://www.imt-mines-ales.fr/",
       "area": "General Engineering",
-      "studyType": "Engineering Degree",
+      "studyType": "Engineer's Degree",
       "startDate": "2020-01-01",
       "endDate": "2023-09-26",
       "score": "10",

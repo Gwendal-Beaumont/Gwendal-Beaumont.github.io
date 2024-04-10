@@ -38,7 +38,7 @@
       "url": "https://www.alten.com/",
       "startDate": "2023-03-06",
       "endDate": "2023-09-01",
-      "summary": "Research intership on the labelling process of data in order to used with Machine Learning algorithm.",
+      "summary": "Research intership on the labelling process of data in order to be used with Machine Learning algorithm.",
       "highlights": ["Creation of an application", "Creation of a framework"]
     }
   ],
@@ -50,16 +50,16 @@
       "startDate": "2021-03-01",
       "endDate": "2022-03-01",
       "summary": "Member of the communications managers team for the student council during a year.",
-      "highlights": ["TBD"]
+      "highlights": ["Administration of a website", "Managing social networks"]
     },
     {
       "organization": "Mines-Télécom Institute",
-      "position": "PhD Students representative at the board of directors",
+      "position": "Ph.D. Students representative at the board of directors",
       "url": "https://www.imt.fr/",
       "startDate": "2023-12-01",
       "endDate": "",
-      "summary": "I represented IMT PhD Students at the national level for two years.",
-      "highlights": ["TBD"]
+      "summary": "IMT PhD Students representative at the national level for two years. I took part in the board of directors of the Institute and a work group that works towards respect and egality.",
+      "highlights": ["Creation of a national Ph.D. students network", "Creation of national events for Ph.D. students"]
     }
   ],
   "education": [
@@ -70,9 +70,9 @@
       "area": "Software Engineering",
       "studyType": "Ph.D.",
       "startDate": "2023-10-01",
-      "endDate": "2026-09-30",
+      "endDate": "",
       "score": "10",
-      "courses": ["TBD"]
+      "courses": ["Digital Twins", "DevOps"]
     },
     {
       "institution": "IMT Mines Alès",
@@ -83,7 +83,7 @@
       "startDate": "2020-01-01",
       "endDate": "2023-09-26",
       "score": "10",
-      "courses": ["TBD"]
+      "courses": ["Computer Sciences", "Software Engineering", "Artificial Intelligence"]
     },
     {
       "institution": "Lycée Malherbe",
@@ -94,7 +94,7 @@
       "startDate": "2018-08-30",
       "endDate": "2020-07-01",
       "score": "10",
-      "courses": ["Mathematics", "Physics", "Computer Science"]
+      "courses": []
     }
   ],
   "certificates": [
@@ -105,7 +105,13 @@
       "url": "https://lyceelittreavranches.fr/"
     },
     {
-      "name": "Engineering Degree",
+      "name": "T.O.E.I.C. (975/990)",
+      "date": "2020-11-09",
+      "issuer": "ETS Global",
+      "url": "https://www.etsglobal.org/"
+    },
+    {
+      "name": "Engineer's Degree",
       "date": "2023-09-26",
       "issuer": "IMT Mines Alès",
       "url": "https://www.imt-mines-ales.fr/"
@@ -117,35 +123,46 @@
       "publisher": "Vaccines",
       "releaseDate": "2022-10-14",
       "url": "https://www.mdpi.com/2076-393X/10/10/1716",
-      "summary": "TBD"
+      "summary": ""
     },
     {
       "name": "2023 Annual Modeling and Simulation Conference (ANNSIM)",
       "publisher": "IEEE Computer Society",
-      "releaseDate": "2023-05-01",
+      "releaseDate": "2023-05-23",
       "url": "https://www.computer.org/csdl/proceedings-article/annsim/2023/10155377/1Oidrokaw5q",
-      "summary": "TBD"
+      "summary": ""
     },
     {
       "name": "A framework for the comparison of errors in agent-based models using machine learning",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "2023-03-20",
+      "publisher": "Journal of Computational Science",
+      "releaseDate": "2023-08-07",
       "url": "https://www.sciencedirect.com/science/article/pii/S1877750323001795",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Coding",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C/C++",
+        "Dart",
+        "Java",
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Infra",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Linux",
+        "Docker",
+        "Network",
+        "SQL"
       ]
     }
   ],
@@ -173,28 +190,26 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Sports",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Badminton",
+        "Bouldering",
+        "Running"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Motorsport",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Formula 1",
+        "Motorbike"
+      ]
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
     }
   ]
 }

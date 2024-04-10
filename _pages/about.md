@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Gwendal is a first-year Ph.D. student at IMT Atlantique, advised by [Prof. Antoine Beugnard](https://www.imt-atlantique.fr/fr/personne/antoine-beugnard). His research interests lie in the fields of Digital Twins and DevOps. His contributions focus on automating the making and the management of Digital Twins.
+Hello all! 👋
 
-Gwendal received his General Engineering degree (specialized in Software Engineering) from IMT Mines Alès in 2023. Before that, he published three co-authored papers in Simulation under the supervision of [Dr. Philippe J. Giabbanelli](https://scholar.google.ca/citations?user=7YilOHoAAAAJ&hl=en).
+I am a first-year Ph.D. student at IMT Atlantique, advised by [Prof. Antoine Beugnard](https://www.imt-atlantique.fr/fr/personne/antoine-beugnard), [Asst. Prof. Sylvain Vauttier](https://sylvainvauttier.wp.imt.fr/), [Dr. Salvador Martinez](https://www.imt-atlantique.fr/fr/personne/salvador-martinez) and [Prof. Christelle Urtado](https://cv.hal.science/christelleurtado). My **research interests** lie in **Digital Twins** and **DevOps**. My contributions will focus on automating the making and the management processes of Digital Twins.
 
-Feel free to send me an email.
+I obtained a **General Engineering degree** (with a speciality in Software Engineering) from IMT Mines Alès in 2023. Before that, I published three co-authored papers in the fields of **Agent-based modeling** and **Machine Learning** under the supervision of [Assoc. Prof. Philippe J. Giabbanelli](https://scholar.google.ca/citations?user=7YilOHoAAAAJ&hl=en).

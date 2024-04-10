@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: curriculum_vitae.pdf
 description: This is my curriculum vitae. A PDF version is available by clicking the PDF icon.  
 ---

@@ -30,7 +30,7 @@
       "startDate": "2022-05-02",
       "endDate": "2023-08-19",
       "summary": "Internship as an assistant in the preparation of a master thesis on the effect of errors in agent-based simulation systems.",
-      "highlights": ["State of the art", "Creating an agent-based simulation in Python", "Machine Learning"]
+      "highlights": ["State of the art on the topic of errors representation in computer simulation", "Creation of a simulation framework in Python to take errors into account", "Creation of multiple agent-based simulation in Python to test our framework"]
     },
     {
       "name": "ALTEN Labs, Rennes, FR",
@@ -151,7 +151,6 @@
         "Java",
         "JavaScript",
         "Python",
-        "Spring Boot",
         "TypeScript"
       ]
     },

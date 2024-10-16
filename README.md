@@ -192,7 +192,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.web.dev/report?url=https%3A%2F%2Falshedivat.github.io%2Fal-folio%2F&form_factor=mobile)
 
-## Table Of Contents
+## Table of Contents
 
 - [al-folio](#al-folio)
   - [User community](#user-community)

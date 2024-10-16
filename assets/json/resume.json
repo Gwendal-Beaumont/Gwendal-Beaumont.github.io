@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Gwendal Beaumont",
-    "label": "PhD Student",
+    "label": "Ph.D. Candidate",
     "image": "",
     "email": "gwendal.beaumont@imt-atlantique.fr",
     "phone": "+33 (0)2 29 00 15 05",
@@ -60,6 +60,14 @@
       "endDate": "",
       "summary": "IMT PhD Students representative at the national level for two years. I took part in the board of directors of the Institute and a work group that works towards respect and egality.",
       "highlights": ["Creation of a national Ph.D. students network", "Creation of national events for Ph.D. students"]
+    },
+    {
+      "organization": "EULiST Alliance",
+      "position": "Ph.D. Students representative",
+      "url": "https://www.imt.fr/",
+      "startDate": "2023-12-01",
+      "endDate": "",
+      "summary": "Institut Mines-Télécom Ph.D. students representative at the european level in the EULiST Alliance. This alliance integrates over 200,000 students and 20,000 staff at 10 universities in 10 countries."
     }
   ],
   "education": [
@@ -68,11 +76,11 @@
       "location": "Brest, France",
       "url": "https://www.imt-atlantique.fr/",
       "area": "Software Engineering",
-      "studyType": "Ph.D.",
+      "studyType": "Ph.D. Candidate",
       "startDate": "2023-10-01",
       "endDate": "",
       "score": "10",
-      "courses": ["Digital Twins", "DevOps"]
+      "courses": ["Digital Twins", "DevOps", "Model-Driven Engineering"]
     },
     {
       "institution": "IMT Mines Alès",
@@ -84,27 +92,10 @@
       "endDate": "2023-09-26",
       "score": "10",
       "courses": ["Computer Sciences", "Software Engineering", "Artificial Intelligence"]
-    },
-    {
-      "institution": "Lycée Malherbe",
-      "location": "Caen, France",
-      "url": "https://malherbe.lycee.ac-normandie.fr/",
-      "area": "Mathematics, Physics, Computer Science",
-      "studyType": "CPGE",
-      "startDate": "2018-08-30",
-      "endDate": "2020-07-01",
-      "score": "10",
-      "courses": []
     }
   ],
   "certificates": [
-    {
-      "name": "Scientific Baccalauréat",
-      "date": "2018-07-10",
-      "issuer": "Lycée Émile Littré",
-      "url": "https://lyceelittreavranches.fr/"
-    },
-    {
+   {
       "name": "T.O.E.I.C. (975/990)",
       "date": "2020-11-09",
       "issuer": "ETS Global",
@@ -137,6 +128,13 @@
       "publisher": "Journal of Computational Science",
       "releaseDate": "2023-08-07",
       "url": "https://www.sciencedirect.com/science/article/pii/S1877750323001795",
+      "summary": ""
+    },
+    {
+      "name": "Towards Re-Engineering Digital Twins: Preliminary Experiments on Three use Cases",
+      "publisher": "ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems (MODELS Companion '24)",
+      "releaseDate": "2024-09-23",
+      "url": "https://hal.science/hal-04679248v1",
       "summary": ""
     }
   ],
@@ -186,30 +184,6 @@
       "language": "Korean",
       "fluency": "Basics",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Sports",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Badminton",
-        "Bouldering",
-        "Running"
-      ]
-    },
-    {
-      "name": "Motorsport",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Formula 1",
-        "Motorbike"
-      ]
-    },
-    {
-      "name": "Music",
-      "icon": "fa-solid fa-tag",
-      "keywords": []
     }
   ]
 }
